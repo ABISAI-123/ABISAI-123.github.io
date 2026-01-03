@@ -1,8 +1,49 @@
 
-body{
-    background-color: blue;
-
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
 }
-div{
-   background-color: cadetblue; 
+
+header {
+    background-color: #2fa37a;
+    color: white;
+    padding: 15px;
+}
+
+.container {
+    display: flex;
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Text Section */
+.text {
+    width: 60%;
+}
+
+.text h2 {
+    color: #2fa37a;
+    margin-bottom: 10px;
+}
+
+.text p {
+    line-height: 1.6;
+}
+
+.image {
+    width: 40%;
+    text-align: center;
+}
+
+.image img {
+    width: 100%;
+    max-width: 300px;
+}
+
+footer {
+    background-color: #2fa37a;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
