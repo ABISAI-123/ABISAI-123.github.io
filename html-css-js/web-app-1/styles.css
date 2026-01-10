@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(67, 63, 63);
+    color: white;
+}
+input{
+    background-color: white;
+    color: black;
+}
+button{
+    background-color: white;
+    color:black;
+    border-radius:8px;
+    border-color:black;
+    border-width: 3px;
+}
